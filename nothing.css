@@ -1,0 +1,31 @@
+.parent{
+    width: 1000px;
+    height: 200px;
+}
+.child1{
+    width: 50%;
+    height: 50%;
+    background-color: yellow;
+}
+.child2{
+    width: 50%;
+    height: 50%;
+    background-color: purple;
+    color: white;
+}
+.parent ~ div{
+    color: white;
+    background-color: rgb(33, 33, 33);
+}
+.text1{
+    width: 50rem;
+    height: 5rem;
+}
+.text2{
+    width: 50em;
+    height: 5em;
+}
+.text3{
+    width: 62vw;
+    height: 7vw;
+}
