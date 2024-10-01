@@ -1,0 +1,53 @@
+.body{
+    border: 2px solid rgb(13, 7, 7);
+    text-align: start;
+    height: 30px;
+    justify-content: start;
+    margin: 20px;
+    display: flex;
+    align-items:center;
+    gap: 60px;
+    padding: 0%;
+    margin: 0%;
+   
+}
+.biceps{
+    border: 5px ;
+    font-size: 19px;
+    margin: 10px;
+   background-color: rgba(190, 185, 185, 0.9);
+   color: rgb(50, 50, 227);
+   border-radius: 1px;
+   height: 40px;
+   width: 70px;
+   box-shadow: 10%;
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+   text-align:center;
+}
+.leg{
+    border: 2px solid black;
+    text-align: center;
+    height: 80px;
+    justify-content: start;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding:20px;
+    gap: 18px;
+    font-size: medium;
+    
+}
+.quads{
+    border: 2px ;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px;
+   background-color: rgb(191, 187, 187);
+   color: blue;
+   height: 50px;
+   width: 150px;
+   border-radius: 4px;
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+
+}
